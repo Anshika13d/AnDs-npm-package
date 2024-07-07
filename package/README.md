@@ -21,7 +21,7 @@ now you just need to create a function like you do when your button is clicked
   };
 ```
 
-Here's the full example
+### Here's the full example
 
 ```
 import React from 'react';
@@ -46,7 +46,7 @@ export default App;
 
 #### Try adding some tailwind to the button for better look
 
-[tailwind](https://tailwindcss.com/docs/guides/vite)
+### access this link ---->>> [tailwind](https://tailwindcss.com/docs/guides/vite)
 
 ```
 import React from 'react';
