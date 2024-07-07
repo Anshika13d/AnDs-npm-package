@@ -15,14 +15,15 @@ import the only function (for now) in your .jsx file
 
 now you just need to create a function like you do when your button is clicked
 
-` const handleButtonClick = () => {
+```
+ const handleButtonClick = () => {
     enableJumpingAnimation('your-button-id');
   };
-`
+```
 
 Here's the full example
 
-`
+```
 import React from 'react';
 import { enableJumpingAnimation } from 'an-imate-ika';
 
@@ -41,13 +42,13 @@ function App() {
 }
 
 export default App;
-`
+```
 
 #### Try adding some tailwind to the button for better look
 
 [tailwind](https://tailwindcss.com/docs/guides/vite)
 
-`
+```
 import React from 'react';
 import { enableJumpingAnimation } from 'an-imate-ika';
 
@@ -67,4 +68,4 @@ function App() {
 
 export default App;
 
-`
+```
