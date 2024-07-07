@@ -2,6 +2,9 @@
 
 ## an-imate-ika
 
+## What does this animation do?
+> If you use it with your button and **Double Click** on the button it will start jumping on its place until unless you **Double Click** it again. Thats it 😊
+
 _Try it!_
 
 > npm install an-imate-ika
