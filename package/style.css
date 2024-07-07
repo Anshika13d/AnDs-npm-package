@@ -1,0 +1,12 @@
+.jumping-button {
+    animation: jumping-animation 0.5s infinite alternate;
+}
+
+@keyframes jumping-animation {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-10px);
+    }
+}
